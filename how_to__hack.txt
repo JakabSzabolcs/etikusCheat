@@ -1,0 +1,10 @@
+ -- ping target, check if its turned on
+	ha ssh - val lépünk be, mert pl tudjuk a jelszót
+	-- ssh login : ssh -p 22 (port : 22) {username+"@ip"} {password}
+		-- ssh -p 22 student@172 
+pwd parancs, aktuális könyver helyzet visszaadása
+cd -vel tudjuk megmondani hogy hova szeretnénk belépni 
+~ -vel a user home-ba lehet lépni
+.. - a szülőre hivatkozik
+-- python3 -m http.server
+

@@ -1,0 +1,19 @@
+https://172.22.214.126:1234
+
+
+1 zh  +  javító  ( rontani nem lehet )
+-capture the flag, IP-t kapunk, fel kell törni azt, majd azon a gépen /home - ba lesznek a flagek egy txt .file - ban .
+
+
+ip oldalról, sajár port és felhaszn, MATE, audio off, 
+
+magyar nyelvi billentyűzet (terminálba) : setxkbmap hu
+
+> törli és felülírja
+>> appendeli a végére
+
+tananyag menet : 
+	basic linuxos alapismeretek
+	portok feltérképezése, mi nincs nyitva
+	parrot linux eszközkészlet
+	jelszavak kihasználása
